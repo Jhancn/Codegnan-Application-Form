@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+#heading{
+    color:#183e3e;
+}
+#table-1{
+    background: #183e3e;
+    color:whitesmoke;
+}
+
+#font{
+    font-family: "Bona Nova SC", serif;
+}
+#buttons{
+    background: #183e3e;
+
+}
